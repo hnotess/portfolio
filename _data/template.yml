@@ -1,0 +1,11 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 463D7F
+  secondary: 2F2956   
+  secondary-dark: 231F40
+  muted: 423A78
+
+# Font Families
+font:
+  primary: 'Lora, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Lora", "Helvetica Neue", Helvetica,Arial,sans-serif'

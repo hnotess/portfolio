@@ -1,0 +1,15 @@
+---
+title: Response magazine
+subtitle: Content strategy
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Seattle Pacific University
+category: Web Content Strategy
+description: I led our team's transition from having the university magazine website in no CMS (with each page hand-coded) to a customized Wordpress theme. https://response.spu.edu/
+
+---

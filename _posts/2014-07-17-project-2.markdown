@@ -1,0 +1,15 @@
+---
+title: Mindful Reader
+subtitle: Web App
+layout: default
+modal-id: 2
+date: 2017-06-12
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Chrome extension-based app allows you to track your mood while you read the news. Tools include Git, Nodejs, React, Webpack/Babel, Chrome Extension API, Firebase, HTML/CSS.
+
+---

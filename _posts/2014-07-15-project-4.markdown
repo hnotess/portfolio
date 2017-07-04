@@ -1,0 +1,15 @@
+---
+title: Isabel Bloom
+subtitle: Web content consultation
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web content and design
+description: Sometimes a new site doesn't need any original code. I created a new Wordpress site and developed a site architecture and theme for a client who needed to get up and running quickly.
+
+---

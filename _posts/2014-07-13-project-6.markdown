@@ -1,0 +1,15 @@
+---
+title: Doing stuff
+subtitle: Graphic Design
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Self
+category: Web Development
+description: Another cool project with JavaScript
+
+---
