@@ -4,12 +4,12 @@ subtitle: JavaScript Quiz Builder
 layout: default
 modal-id: 1
 date: 2017-03-15
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
+img: quiz-builder-demo.png
+thumbnail: quiz-builder-thumbnail.png
+alt: quiz-builder-screenshot
 project-date: March 2017
-client: Start Bootstrap
-category: Web Development
+client: UW Continuing Ed Class
+category: Web development
 description: Responsive quiz app reads in a customizable JSON file to generate a trivia quiz that allows you to share your results in social media. Tools include jQuery, JavaScript, AJAX, JSON, Bootstrap, HTML/CSS, Twitter and Facebook APIs
 
 
