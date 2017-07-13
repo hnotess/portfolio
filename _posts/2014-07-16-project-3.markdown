@@ -3,13 +3,13 @@ title: University Calendar
 subtitle: Web development
 layout: default
 modal-id: 3
-date: 2017-08-10
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+date: 2017-05-10
+img: vue-calendar.png
+thumbnail: vue-calendar-thumbnail.png
+alt: Vue-js-logo
 project-date: August 2017
 client: Seattle Pacific University
 category: Web Development
-description: Refactoring a university-wide calendaring app from jQuery into Vue.js.
+description: No screenshots yet, since this is my current project, but I'm refactoring a university-wide calendaring app from jQuery into Vue.js. It's super fun.
 
 ---

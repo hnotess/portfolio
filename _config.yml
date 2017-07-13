@@ -25,7 +25,7 @@ github_username:  hnotess
 # Build settings
 markdown: kramdown
 theme: agency-jekyll-theme
-gems:
+plugins:
   - jekyll-feed
 
 # Exclude from processing.
@@ -45,10 +45,6 @@ social:
     url: https://twitter.com/hnotess
   - title: linkedin
     url: https://linkedin.com/in/hannahnotess
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/hnotess
 

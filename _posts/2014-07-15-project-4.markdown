@@ -3,7 +3,7 @@ title: Isabel Bloom
 subtitle: Web content consultation
 layout: default
 modal-id: 4
-date: 2017-06-30
+date: 2017-04-30
 img: author-site.png
 thumbnail: author-site-thumbnail.png
 alt: isabel-bloom-author-site

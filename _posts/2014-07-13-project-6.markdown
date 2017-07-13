@@ -1,15 +1,15 @@
 ---
-title: Doing stuff
-subtitle: Graphic Design
+title: Personal website
+subtitle: Wordpress admin
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date: April 2014
+date: 2012-02-15
+img: hannah-notess.png
+thumbnail: hannah-notess-thumbnail.png
+alt: hannah notess website screenshot
+project-date: April 2015
 client: Self
-category: Web Development
-description: Another cool project with JavaScript
+category: Wordpress admin
+description: It's a very simple Wordpress site that I recently switched from self-hosted Wordpress.org to Wordpress.com. <a href="https://hannahnotess.com">This site</a> is home to my non-technical writing.
 
 ---

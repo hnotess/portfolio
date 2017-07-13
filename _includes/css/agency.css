@@ -18,6 +18,9 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-white {
+    color: #fff;
+}
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -268,7 +271,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/annie-spratt-169828.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -654,7 +657,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/creative-desk.jpg');
+    background-image: url('{{ site.baseurl }}/img/annie-spratt-138433.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
